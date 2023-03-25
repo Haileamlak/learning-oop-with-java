@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "java",
+      "mainClass": "First",
+      "targetPath": "${workspaceFolder}/${workspaceFolderBasename}.jar",
+      "elements": ["${compileOutput}", "${dependencies}"],
+      "problemMatcher": [],
+      "label": "java: exportjar:Java",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": ["LAB", "Gibi_Gubae", "GUIPACK", ""],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\HP Elite BOOK\\Desktop\\sqljdbc_10.2\\enu\\mssql-jdbc-10.2.1.jre17.jar"
+  ]
+}
